@@ -7,7 +7,7 @@ This index follows the list's custom order as retrieved on July 31, 2026. Soluti
 | Order | # | Problem | Difficulty | Status | Solution |
 |---:|---:|---|---|---|---|
 | 001 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ⬜ | — |
-| 002 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | ✅ Solved, code pending | [Java folder](Java/002-167-two-sum-ii-input-array-is-sorted/) |
+| 002 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | ✅ Solved | [Solution.java](Java/002-167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 003 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | ⬜ | — |
 | 004 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | ⬜ | — |
 | 005 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | Easy | ⬜ | — |

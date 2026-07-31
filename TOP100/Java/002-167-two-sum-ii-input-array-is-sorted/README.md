@@ -2,7 +2,6 @@
 
 - TOP100 order: 002
 - Difficulty: Medium
-- Status: Solved; Java code pending
+- Status: Solved
 - Problem: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-
-Paste the accepted Java solution to add `Solution.java` here.
+- Solution: [Solution.java](Solution.java)
