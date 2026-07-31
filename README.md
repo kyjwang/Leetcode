@@ -2,6 +2,10 @@
 
 Solutions are organized by language, then by LeetCode problem number and title.
 
+## Curated Lists
+
+- [TOP100](TOP100/README.md) — progress through the first 100 questions in the list's custom order.
+
 | # | Problem | Language | Solution |
 |---:|---|---|---|
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Java | [Solution.java](Java/3536-maximum-product-of-two-digits/Solution.java) |
